@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', function () {
         gap: 10,
         rewind: true,
         cover: true,
-        isNavigation: false,
+        isNavigation: true,
+        arrows: false,
         pagination: false,
         focus: 'center',
         breakpoints: {
